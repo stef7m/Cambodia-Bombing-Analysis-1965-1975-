@@ -15,13 +15,13 @@ This project aims to go beyond numbers and statistics. While the data provides i
 - Explores bombing data by province and district, highlighting the scale and intensity of the U.S. bombing campaign.
 - Includes metrics like **Load Tons**, **Bombed Area Percentage**, and **Total Bombed Area (km²)** for each administrative division.
 
-![Cambodia Dashboard](./images/cambodia_dashboard_image.png)
+![Cambodia Dashboard](Images/cambodia_dashboard_image.png)
 
 ### 2. **Custom Visualisations**
 - A striking **explosion visualisation** created dynamically using munitions data, illustrating the campaign's intensity and devastation (see image below).
 - An interactive **timeline** enables users to trace the progression of the bombing operations over the years.
 
-![Custom Visualisations](./images/dashboard_visualisation.png)
+![Dashboard Visualisation](Images/dashboard_visualisation.png)
 
 ### 3. **Interactive Filters**
 - Users can filter for:
